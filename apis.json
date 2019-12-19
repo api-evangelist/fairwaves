@@ -1,0 +1,53 @@
+{
+    "name": "Fairwaves",
+    "description": "<p>Fairwaves make rural mobile coverage profitable. We have built a unique technology that significantly lowers the cost of deploying and operating mobile networks in rural regions. Fairwaves is gaining a footprint in the telecommunications space by helping Mobile Network Operators (MNO) to roll out mobile networks to reach up-to 1.6 billion new customers.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/fairwaves.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fairwaves\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fairwaves",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/fairwaves.png",
+            "humanURL": "https:\/\/fairwaves.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fairwaves-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/fairwaves.co\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/fairwaves.co\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fairwaves"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fairwaves"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fairwaves.co\/"
+        }
+    ]
+}
